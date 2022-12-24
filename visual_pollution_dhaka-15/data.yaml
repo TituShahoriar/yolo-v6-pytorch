@@ -1,0 +1,14 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- Industrial Clothes dump
+- Industrial Textile billboard
+- Industrial Textile dye
+nc: 9
+test: visual_pollution_dhaka-15/images/test
+train: visual_pollution_dhaka-15/images/train
+val: visual_pollution_dhaka-15/images/valid
